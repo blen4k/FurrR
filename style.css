@@ -1,8 +1,12 @@
 #canvas {
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+font-family: 'Reggae One', cursive;
+
 @font-face {
 	font-family: 'Reggae One', cursive; 
-	src: url(ReggaeOne-Regular.ttf); 
+	src: url(/ReggaeOne-Regular.ttf); 
 }
 
 html {
