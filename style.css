@@ -14,11 +14,13 @@ html {
 background-image: url(https://st2.depositphotos.com/3638669/10150/v/450/depositphotos_101506990-stock-illustration-dogs-paw-print-background-seamless.jpg);
 -moz-user-select: none;
 -khtml-user-select: none;
-user-select: none;    
+user-select: none;
+font-family: 'Reggae One', cursive;
 }
 
 body {
-  line-height: 300%;
+line-height: 300%;
+font-family: 'Reggae One', cursive;
 }
 
 .Mark
@@ -35,6 +37,7 @@ text-shadow: 1px 0 1px #000,
 
 button 
 {
+font-family: 'Reggae One', cursive;
   display: inline-block;
   font-size:40px ;
   font-weight:100;
