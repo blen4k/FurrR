@@ -11,7 +11,7 @@ font-family: 'Reggae One', cursive;
 
 html {
   height:100%;
-background-image: url(https://st2.depositphotos.com/3638669/10150/v/450/depositphotos_101506990-stock-illustration-dogs-paw-print-background-seamless.jpg);
+background-image: url(https://raw.githubusercontent.com/blen4k/FurrR/main/fon.png);
 -moz-user-select: none;
 -khtml-user-select: none;
 user-select: none;
@@ -41,15 +41,15 @@ font-family: 'Reggae One', cursive;
   display: inline-block;
   font-size:30px ;
   font-weight:100;
-  color: white;
+  color: #36260db;
   text-decoration: none;
   padding: .5em 2em;
   outline: none;
   border-width: 2px 0;
   border-style: solid none;
-  border-color: #555555;
+  border-color: #dea845b;
   border-radius: 0px;
-  background: linear-gradient(#555555, #555555) #555555;
+  background: linear-gradient(#c9bca9, #c9bca9) #c9bca9b;
   transition: 0.2s;
 }
 .Text_block {
@@ -60,7 +60,7 @@ font-family: 'Reggae One', cursive;
   position:relative;
     font-size: 50px;
 	line-height: 10%;
-    background: #efefef;
+    background: #efefef82;
     color: #000;
 }
 .Text_block2 {
@@ -78,7 +78,7 @@ font-family: 'Reggae One', cursive;
 
 .content {
   font-size: 50px; 
-  background-color:rgba(200,200,200,.9);
+  background-color:rgba(205 177 138 / 78%);
   border-radius:.0em;
   -webkit-box-shadow:0 0 .25em rgba(0,0,0,.25);
           box-shadow:0 0 .25em rgba(0,0,0,.25);
