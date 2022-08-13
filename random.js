@@ -149,15 +149,7 @@ var concat = arr[rand];
 document.getElementById("VID").innerHTML = (concat);
 var arr = [
 'Мужской',
-	'Мужской',
-	'Мужской',
-	'Мужской',
-	'Мужской',
-	'Мужской',
-	'Мужской',
-	'Мужской',
-	'Мужской',
-'Женский',
+'Женский'
 ];
 var rand = Math.floor(Math.random() * arr.length);
 var concat = arr[rand];
